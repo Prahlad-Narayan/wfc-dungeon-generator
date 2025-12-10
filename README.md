@@ -216,7 +216,7 @@ If you use this tool in academic work, please cite:
   title = {Wave Function Collapse Dungeon Generator: An Interactive Educational Tool},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/wfc-dungeon-generator}
+  url = {link}
 }
 ```
 
