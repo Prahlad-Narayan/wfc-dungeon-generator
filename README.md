@@ -6,7 +6,7 @@ An interactive web-based educational tool for learning and exploring Wave Functi
 
 ##  Live Demo
 
-**[Try it here](https://yourusername.github.io/wfc-dungeon-generator)** *(Deploy to GitHub Pages and update this link)*
+**[Try it here](link)** *(Deploy to GitHub Pages and update this link)*
 
 ##  What is Wave Function Collapse?
 
