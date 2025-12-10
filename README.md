@@ -93,16 +93,6 @@ Academic analysis of the teaching approach:
 
  **[Download Pedagogical Report](docs/Pedagogical_Report.pdf)**
 
-##  Video Tutorial
-
-10-minute walkthrough demonstrating:
-- WFC concept explanation
-- Live tool demonstration with entropy visualization
-- Code walkthrough
-- Challenge exercises
-
-**[Watch Tutorial Video](https://youtu.be/your-video-id)**
-
 ##  Technology Stack
 
 - **TypeScript** - Type-safe implementation
